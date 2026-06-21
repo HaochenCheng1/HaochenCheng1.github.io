@@ -26,6 +26,14 @@
   border-radius: 8px;
 }
 
+img.floatright { 
+
+    float: right; 
+
+    margin: 5px; 
+
+}
+
 .caption {
   font-size: 14px;
   margin-top: 8px;
