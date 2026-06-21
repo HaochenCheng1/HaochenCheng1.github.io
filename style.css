@@ -16,6 +16,7 @@
   /* position: flex;
   top: 30px;
   right: 30px; */
+  float: right;
   margin-left: auto;
   flex-shrink: 0;
   text-align: center;
@@ -26,13 +27,13 @@
   border-radius: 8px;
 }
 
-img.floatright { 
+/* img.floatright { 
 
     float: right; 
 
     margin: 5px; 
 
-}
+} */
 
 .caption {
   font-size: 14px;
