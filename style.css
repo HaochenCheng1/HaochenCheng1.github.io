@@ -6,19 +6,18 @@
 }
 
 .photo-box {
-  position: absolute;
+  position: flex;
   top: 30px;
   right: 30px;
   text-align: center;
 }
 
 .profile-photo {
-  width: 180px;
+  width: 250px;
   border-radius: 8px;
 }
 
 .caption {
   font-size: 14px;
-  color: gray;
   margin-top: 8px;
 }
