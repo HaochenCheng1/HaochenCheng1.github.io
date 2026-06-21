@@ -6,6 +6,8 @@
 }
 
 .profile-photo {
+  position: absolute;
+  top: 30px;
+  right: 30px;
   width: 180px;
-  border-radius: 8px;
 }
