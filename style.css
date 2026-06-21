@@ -5,9 +5,20 @@
   gap: 30px;
 }
 
-.profile-photo {
+.photo-box {
   position: absolute;
   top: 30px;
   right: 30px;
+  text-align: center;
+}
+
+.profile-photo {
   width: 180px;
+  border-radius: 8px;
+}
+
+.caption {
+  font-size: 14px;
+  color: gray;
+  margin-top: 8px;
 }
