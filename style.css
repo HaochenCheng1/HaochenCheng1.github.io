@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.profile-photo {
+  width: 180px;
+  border-radius: 8px;
+}
