@@ -13,9 +13,9 @@
 }
 
 .photo-box {
-  position: flex;
+  /* position: flex;
   top: 30px;
-  right: 30px;
+  right: 30px; */
   flex-shrink: 0;
   text-align: center;
 }
