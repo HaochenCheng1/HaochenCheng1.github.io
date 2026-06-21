@@ -16,6 +16,7 @@
   /* position: flex;
   top: 30px;
   right: 30px; */
+  margin-left: auto;
   flex-shrink: 0;
   text-align: center;
 }
@@ -28,4 +29,20 @@
 .caption {
   font-size: 14px;
   margin-top: 8px;
+}
+
+@media (max-width: 700px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .photo-box {
+    margin-left: 0;
+    align-self: center;
+  }
+
+  .profile-photo {
+    width: 100%;
+    max-width: 260px;
+  }
 }
