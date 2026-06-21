@@ -5,6 +5,13 @@
   gap: 30px;
 }
 
+.text {
+  flex: 1;
+  min-width: 0;
+  line-height: 1.7;
+  overflow-wrap: break-word;
+}
+
 .photo-box {
   position: fixed;
   top: 30px;
